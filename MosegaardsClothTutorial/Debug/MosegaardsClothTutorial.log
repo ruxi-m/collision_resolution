@@ -1,0 +1,9 @@
+﻿  MosegaardsClothTutorial.cpp
+c:\users\ruxi\desktop\mosegaardsclothtutorial-master\mosegaardsclothtutorial\mosegaardsclothtutorial.cpp(148): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\ruxi\desktop\mosegaardsclothtutorial-master\mosegaardsclothtutorial\mosegaardsclothtutorial.cpp(473): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\ruxi\desktop\mosegaardsclothtutorial-master\mosegaardsclothtutorial\mosegaardsclothtutorial.cpp(474): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\ruxi\desktop\mosegaardsclothtutorial-master\mosegaardsclothtutorial\mosegaardsclothtutorial.cpp(492): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ruxi\desktop\mosegaardsclothtutorial-master\mosegaardsclothtutorial\mosegaardsclothtutorial.cpp(494): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ruxi\desktop\mosegaardsclothtutorial-master\mosegaardsclothtutorial\mosegaardsclothtutorial.cpp(495): warning C4305: 'argument': truncation from 'double' to 'float'
+MosegaardsClothTutorial.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  MosegaardsClothTutorial.vcxproj -> C:\Users\Ruxi\Desktop\MosegaardsClothTutorial-master\MosegaardsClothTutorial\Debug\MosegaardsClothTutorial.exe
